@@ -1,0 +1,1 @@
+x=0 function Update() return x end
