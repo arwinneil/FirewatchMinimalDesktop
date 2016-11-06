@@ -1,2 +1,2 @@
 # FirewatchMinimalDesktop
-![Imgur](http://i.imgur.com/OpJXnJI.gifv)
+![Imgur](http://i.imgur.com/OpJXnJI.gif)
